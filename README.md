@@ -17,13 +17,13 @@ The Dynamic Data Source Connector is a Python GUI application built using Tkinte
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/dynamic-data-source-connector.git
+    git clone https://github.com/AmanataNayak/bi-tool.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd dynamic-data-source-connector
+    cd bi-tool
     ```
 
 3. Install dependencies:
@@ -47,6 +47,3 @@ The Dynamic Data Source Connector is a Python GUI application built using Tkinte
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
